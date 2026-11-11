@@ -1,0 +1,17 @@
+{
+  "name": "actividad_3_api_productos",
+  "version": "1.0.0",
+  "description": "Actividad 3 - API de productos con Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
